@@ -1,0 +1,6 @@
+{
+  "name": "AI Decision Platform",
+  "description": "An advanced full-stack enterprise decision intelligence platform with AI analytics, interactive operational mapping, and real-time alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
